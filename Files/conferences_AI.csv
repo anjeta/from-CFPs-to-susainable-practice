@@ -1,0 +1,37 @@
+No.,Domain,Rank,Conference Title,Acronym,CFP_URL,Papers_URL,Year,Include
+1,Artificial intelligence,A*,ACM Conference on Economics and Computation,EC,https://ec25.sigecom.org/call-for-contributions-acm/papers/,https://ec25.sigecom.org/program/accepted-papers/,2025,Yes
+2,Artificial intelligence,A*,Association for Computational Linguistics,ACL,https://2025.aclweb.org/calls/main_conference_papers/,https://2025.aclweb.org/program/main_papers/,2025,Yes
+3,Artificial intelligence,A*,Empirical Methods in Natural Language Processing,EMNLP,https://2025.emnlp.org/calls/main_conference_papers/,https://aclanthology.org/events/emnlp-2025/#2025emnlp-main,2025,Yes
+4,Artificial intelligence,A*,IEEE International Conference on Robotics and Automation,ICRA,https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/keywords,Accepted papers not found,2025,Yes
+5,Artificial intelligence,A*,International Conference on Automated Planning and Scheduling,ICAPS,https://icaps25.icaps-conference.org/calls/main_track/,https://icaps25.icaps-conference.org/program/accepted/,2025,Yes
+6,Artificial intelligence,A*,International Conference on the Principles of Knowledge Representation and Reasoning,KR,https://kr.org/KR2025/call_main_track.html,https://kr.org/KR2025/accepted.html,2025,Yes
+7,Artificial intelligence,A*,International Joint Conference on Artificial Intelligence,IJCAI,https://2025.ijcai.org/call-for-papers-main-track/,https://2025.ijcai.org/montreal-main-track-accepted-papers/,2025,Yes
+8,Artificial intelligence,A*,"International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",AAMAS,https://aamas2025.org/index.php/conference/calls/call-for-papers-main-technical-track/,https://aamas2025.org/index.php/conference/program/accepted-papers/,2025,Yes
+9,Artificial intelligence,A*,National Conference of the American Association for Artificial Intelligence,AAAI,https://aaai.org/conference/aaai/aaai-25/iaai-25-call/,https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Oral-Talks-Schedule-2.22.pdf,2025,Yes
+10,Artificial intelligence,A,Conference in Uncertainty in Artificial Intelligence,UAI,https://www.auai.org/uai2025/call_for_papers,https://www.auai.org/uai2025/accepted_papers,2025,Yes
+11,Artificial intelligence,A,European Association for Computational Linguistics,EACL,https://2024.eacl.org/calls/papers/,https://2024.eacl.org/program/main-accepted/,2024,Yes
+12,Artificial intelligence,A,European Conference on Artificial Intelligence,ECAI,https://ecai2025.org/call-for-papers/,https://ecai2025.org/accepted-papers/,2025,Yes
+13,Artificial intelligence,A,Foundations of Genetic Algorithms,FOGA,https://naco.liacs.nl/foga2025/,https://naco.liacs.nl/foga2025/program.html,2025,Yes
+14,Artificial intelligence,A,Genetic and Evolutionary Computations,GECCO,https://gecco-2025.sigevo.org/Call-for-Papers,https://gecco-2025.sigevo.org/Accepted-Posters,2025,Yes
+15,Artificial intelligence,A,IEEE/RSJ International Conference on Intelligent Robots and Systems,IROS,https://www.iros25.org/CallForPapersv2,https://ras.papercept.net/conferences/conferences/IROS25/program/IROS25_KeywordIndexWeb.html,2025,Yes
+16,Artificial intelligence,A,International Conference on Automated Deduction,CADE,https://www.dhbw-stuttgart.de/cade-30/calls/,https://www.dhbw-stuttgart.de/cade-30/accepted-papers/,2025,Yes
+17,Artificial intelligence,A,International Conference on Principles and Practice of Constraint Programming,CP,https://cp2025.a4cp.org/cfp.html,https://cp2025.a4cp.org/accepted_papers.html,2025,Yes
+18,Artificial intelligence,A,International Conference on Theory and Applications of Satisfiability Testing,SAT,https://satisfiability.org/SAT25/cfp/,https://satisfiability.org/SAT25/papers/,2025,Yes
+19,Artificial intelligence,A,International Joint Conference on Automated Reasoning,IJCAR,https://merz.gitlabpages.inria.fr/2024-ijcar/post/call-for-papers/,https://merz.gitlabpages.inria.fr/2024-ijcar/page/accepted/,2024,Yes
+20,Artificial intelligence,A,Interspeech (combined EuroSpeech and ICSLP in 2000),Interspeech,https://www.interspeech2025.org/call-for-papers,https://www.isca-archive.org/interspeech_2025/,2025,Yes
+21,Artificial intelligence,A,North American Association for Computational Linguistics,NAACL,https://2025.naacl.org/calls/papers/,https://2025.naacl.org/program/accepted_papers/,2025,Yes
+22,Machine learning,A*,Advances in Neural Information Processing Systems (was NIPS),NeurIPS,https://neurips.cc/Conferences/2025/CallForPapers,https://neurips.cc/virtual/2025/loc/san-diego/papers.html,2025,Yes
+23,Machine learning,A*,Conference on Learning Theory,COLT,https://learningtheory.org/colt2025/cfp.html,https://learningtheory.org/colt2025/accepted-papers.html,2025,Yes
+24,Machine learning,A*,International Conference on Learning Representations,ICLR,https://iclr.cc/Conferences/2025/CallForPapers,https://iclr.cc/virtual/2025/papers.html,2025,Yes
+25,Machine learning,A*,International Conference on Machine Learning,ICML,https://icml.cc/Conferences/2025/CallForPapers,https://icml.cc/virtual/2025/papers.html,2025,Yes
+26,Machine learning,A,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),ECML PKDD,https://ecmlpkdd.org/2025/submissions-ads-track/,https://ecmlpkdd.org/2025/accepted-papers-rt/,2025,Yes
+27,Machine learning,A,International Conference on Artificial Intelligence and Statistics,AISTATS,https://aistats.org/aistats2025/call-for-papers.html,https://openreview.net/group?id=aistats.org/AISTATS/2025/Conference#tab-accept-oral,2025,Yes
+28,Machine learning,A,Parallel Problem Solving from Nature,PPSN,https://ppsn2026.disi.unitn.it/#calls,https://ppsn2024.fh-ooe.at/program/,2025,Yes
+29,Computer vision,A*,European Conference on Computer Vision,ECCV,https://eccv.ecva.net/Conferences/2024/CallForPapers,https://iccv.thecvf.com/Conferences/2025/AcceptedPapers,2024,Yes
+30,Computer vision,A*,IEEE Conference on Computer Vision and Pattern Recognition,CVPR,https://cvpr.thecvf.com/Conferences/2025/CallForPapers,https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers,2025,Yes
+31,Computer vision,A*,IEEE International Conference on Computer Vision,ICCV,https://iccv.thecvf.com/Conferences/2025/CallForPapers,https://iccv.thecvf.com/Conferences/2025/AcceptedPapers,2025,Yes
+32,Computer vision,A,British Machine Vision Conference,BMVC,https://bmvc2025.bmva.org/calls/call-for-papers/,https://bmvc2025.bmva.org/programme/accepted_papers/,2025,Yes
+33,Computer vision,A,IEEE Workshop on Applications of Computer Vision,WACV,https://wacv2025.thecvf.com/submissions/,https://openaccess.thecvf.com/WACV2025,2025,Yes
+34,Data management and data science,A,ACM International Conference on Information and Knowledge Management,CIKM,https://cikm2025.org/calls/full-research-papers,https://cikm2025.org/program/accepted-papers,2025,No
+35,Human-centered computing,A,ACM/IEEE International Conference on Human-Robot Interaction,HRI,https://humanrobotinteraction.org/2025/full-papers/#description_tracks,https://dl.acm.org/doi/proceedings/10.5555/3721488,2025,No
+36,Theory of computation,A,"Logics in Artificial Intelligence, European Conference",JELIA,https://viam.science.tsu.ge/jelia2025/cfp,https://viam.science.tsu.ge/jelia2025/papers,2025,No
